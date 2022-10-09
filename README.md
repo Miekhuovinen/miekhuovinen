@@ -1,6 +1,0 @@
-# jaa #
-
-Moi
-======
-
-tässä teksit
