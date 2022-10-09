@@ -1,4 +1,4 @@
-# Tässä on tämmöne nettisivu vaikka toho E-bundleen. 
+# Tässä on tämmöne nettisivu vaikka toho E bundleen. 
 
 ## Tässä on pienempi otsikko
 
@@ -9,3 +9,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Tässä
 * On
 * Lista
+
+> Tässä on käytetty siis näitä markdown ominaisuuksia, eli pelkästään index.md tiedostoon on kirjotettu ja tää github pages muuttaa ne html-elementeiksi.
